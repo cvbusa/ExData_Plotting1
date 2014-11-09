@@ -95,7 +95,7 @@ The four plots that you will need to construct are shown below.
 ### Plot 1
 
 
-[https://github.com/cvbusa/ExData_Plotting1/](figure/plot1.png) 
+[https://github.com/cvbusa/ExData_Plotting1/figure/plot1.png](figure/plot1.png) 
 
 
 ### Plot 2
@@ -105,10 +105,10 @@ The four plots that you will need to construct are shown below.
 
 ### Plot 3
 
-![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
+[https://github.com/cvbusa/ExData_Plotting1/figure/plot3.png](figure/plot3.png)  
 
 
 ### Plot 4
 
-![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
+[https://github.com/cvbusa/ExData_Plotting1/figure/plot4.png](figure/plot4.png) 
 
