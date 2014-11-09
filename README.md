@@ -100,7 +100,7 @@ The four plots that you will need to construct are shown below.
 
 ### Plot 2
 
-![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
+[https://github.com/cvbusa/ExData_Plotting1/figure/plot2.png](figure/plot2.png) 
 
 
 ### Plot 3
