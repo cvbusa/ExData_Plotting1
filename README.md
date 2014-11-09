@@ -95,19 +95,36 @@ The four plots that you will need to construct are shown below.
 ### Plot 1
 
 
+<<<<<<< HEAD
 [Plot 1 - active power histogram](plot1.png) 
+=======
+[https://github.com/cvbusa/ExData_Plotting1/figure/plot1.png](figure/plot1.png) 
+>>>>>>> 1f20c9caa5fccd30dcb8ef17ecf77fc5c06d7e50
 
 
 ### Plot 2
 
+<<<<<<< HEAD
 [Plot 2 - active power plot](plot2.png) 
+=======
+[https://github.com/cvbusa/ExData_Plotting1/figure/plot2.png](figure/plot2.png) 
+>>>>>>> 1f20c9caa5fccd30dcb8ef17ecf77fc5c06d7e50
 
 
 ### Plot 3
 
+<<<<<<< HEAD
 [Plot 3 - sub metering plot](plot3.png) 
 
 
 ### Plot 4
 [Plot 4 - multi-frame plots](plot4.png) 
+=======
+[https://github.com/cvbusa/ExData_Plotting1/figure/plot3.png](figure/plot3.png)  
+
+
+### Plot 4
+
+[https://github.com/cvbusa/ExData_Plotting1/figure/plot4.png](figure/plot4.png) 
+>>>>>>> 1f20c9caa5fccd30dcb8ef17ecf77fc5c06d7e50
 
