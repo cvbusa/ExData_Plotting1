@@ -1,9 +1,9 @@
 # setwd("C:/Users/Charles/Documents/RProgramming/ExData_Plotting1")
 
 subDirData <-file.path(getwd(),"data")
-subDirFigure <-file.path(getwd(),"figure")
+#subDirPng <-file.path(getwd(),"png")
 if(!file.exists(subDirData)) {dir.create(path = subDirData, showWarnings = FALSE)}
-if(!file.exists(subDirFigure)) {dir.create(path = subDirFigure, showWarnings = FALSE)}
+#if(!file.exists(subDirPng)) {dir.create(path = subDirPng, showWarnings = FALSE)}
 
 strURL <- "https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip"
 strFile <- file.path(subDirData,"power.zip")
@@ -40,7 +40,7 @@ createPlot <-function() {
 createPlot()
 
 # save plot to png 
-strPathPng <-file.path(subDirFigure,"plot1.png")
+strPathPng <-file.path(getwd(),"plot1.png")
 png(strPathPng, width=480, height=480)
 createPlot()
 dev.off()
