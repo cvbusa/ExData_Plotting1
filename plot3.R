@@ -11,7 +11,7 @@ files <-unzip(zipfile = strFile, list = T)
 unzip(zipfile = strFile, exdir = subDirData)
 strFiles1st <-file.path(subDirData,files[1])
 
-# read all ofstrFiles1st in to data frame
+# read all of file from zip into data frame
 dfPower <- read.table(file = strFiles1st, header = T, sep = ";", stringsAsFactors = F)
 
 head(dfPower)

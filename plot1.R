@@ -1,4 +1,5 @@
-#
+# setwd("C:/Users/Charles/Documents/RProgramming/ExData_Plotting1")
+
 subDirData <-file.path(getwd(),"data")
 subDirFigure <-file.path(getwd(),"figure")
 if(!file.exists(subDirData)) {dir.create(path = subDirData, showWarnings = FALSE)}
@@ -11,7 +12,7 @@ files <-unzip(zipfile = strFile, list = T)
 unzip(zipfile = strFile, exdir = subDirData)
 strFiles1st <-file.path(subDirData,files[1])
 
-# read all ofstrFiles1st in to data frame
+# read all of file from zip into data frame
 dfPower <- read.table(file = strFiles1st, header = T, sep = ";", stringsAsFactors = F)
 
 head(dfPower)
