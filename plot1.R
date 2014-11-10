@@ -48,7 +48,8 @@ createPlot <-function() {
 # send plot to screen
 createPlot()
 
-# save plot to png 
+# save plot to png
+#strPathPng <-file.path(subDirPng,"plot1.png")
 strPathPng <-file.path(getwd(),"plot1.png")
 png(strPathPng, width=480, height=480)
 createPlot()
